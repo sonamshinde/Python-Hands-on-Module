@@ -1,0 +1,2 @@
+
+I used basic Python across these notebooks to practice core programming concepts. I worked with integers, strings, and complex numbers, implemented functions, performed file handling, and used built-in tools like map, filter, and reduce for data processing. Each notebook demonstrates fundamental Python skills such as loops, conditionals, list/dictionary operations, and simple algorithms. These exercises helped me strengthen my understanding of Pythons standard library and foundational programming logic.
